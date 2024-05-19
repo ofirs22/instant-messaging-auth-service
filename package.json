@@ -1,0 +1,10 @@
+{
+  "name": "instant-messaging-auth-service",
+  "version": "1.0.0",
+  "description": "the auth service of an instant messaging app",
+  "main": "server.js",
+  "repository": "https://github.com/ofirs22/instant-messaging-auth-service.git",
+  "author": "Ofir Sahar",
+  "license": "MIT",
+  "private": false
+}
